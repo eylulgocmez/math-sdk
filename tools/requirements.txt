@@ -1,0 +1,15 @@
+# Reel Generator & RTP Calculator Requirements
+# All packages are Python built-in, no external dependencies needed.
+
+# Built-in packages used:
+# - json (config file parsing)
+# - csv (reel strip export)
+# - os (file/folder operations)
+# - random (symbol shuffling)
+# - argparse (command line arguments)
+# - datetime (timestamps)
+# - typing (type hints)
+# - math (RTP calculations)
+# - importlib (dynamic module loading)
+
+# No pip install required!

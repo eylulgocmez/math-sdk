@@ -1,0 +1,131 @@
+============================================================
+RTP CALCULATOR REPORT
+============================================================
+Game: lucky_7s
+Target RTP: 97.0%
+Win Cap: 7777x
+
+------------------------------------------------------------
+REEL: FR0
+------------------------------------------------------------
+Estimated Volatility: Medium-High
+
+Symbol Probabilities (Reel 1):
+   O       13.0%  =============
+   P       13.0%  =============
+   L       13.0%  =============
+   G       11.0%  ===========
+   D       11.0%  ===========
+   C       10.0%  ==========
+   H       10.0%  ==========
+   E        8.0%  ========
+   B        6.0%  ======
+   7        5.0%  =====
+
+Base Game RTP Estimate: 61.90%
+
+TOTAL RTP ESTIMATE:
+   Base Game RTP:       61.90%
+   FS Trigger Prob:      0.12%
+   FS Avg Spins:         10.0
+   FS Avg Multiplier:     3.5x
+   Free Spin RTP:        2.54%
+   --------------------------
+   TOTAL RTP:           64.44%
+
+RTP by Symbol:
+   H       10.88%
+   C        9.18%
+   D        8.68%
+   L        7.57%
+   G        6.35%
+   E        6.17%
+   O        4.37%
+   B        3.09%
+   P        2.92%
+   7        2.69%
+
+------------------------------------------------------------
+REEL: BR0
+------------------------------------------------------------
+Estimated Volatility: High
+
+Symbol Probabilities (Reel 1):
+   P       15.0%  ===============
+   L       13.0%  =============
+   O       13.0%  =============
+   D       11.0%  ===========
+   G       11.0%  ===========
+   H       10.0%  ==========
+   C       10.0%  ==========
+   E        8.0%  ========
+   B        7.0%  =======
+   7        2.0%  ==
+
+Base Game RTP Estimate: 63.29%
+
+TOTAL RTP ESTIMATE:
+   Base Game RTP:       63.29%
+   FS Trigger Prob:      0.01%
+   FS Avg Spins:         10.0
+   FS Avg Multiplier:     3.5x
+   Free Spin RTP:        0.17%
+   --------------------------
+   TOTAL RTP:           63.46%
+
+RTP by Symbol:
+   H       10.88%
+   C        9.18%
+   D        8.68%
+   L        7.57%
+   G        6.35%
+   E        6.17%
+   B        5.03%
+   P        4.90%
+   O        4.37%
+   7        0.15%
+
+------------------------------------------------------------
+REEL: WCAP
+------------------------------------------------------------
+Estimated Volatility: Medium
+
+Symbol Probabilities (Reel 1):
+   L       12.0%  ============
+   P       12.0%  ============
+   O       12.0%  ============
+   D       10.0%  ==========
+   G       10.0%  ==========
+   E       10.0%  ==========
+   B        9.0%  =========
+   C        9.0%  =========
+   H        9.0%  =========
+   7        7.0%  =======
+
+Base Game RTP Estimate: 68.52%
+
+TOTAL RTP ESTIMATE:
+   Base Game RTP:       68.52%
+   FS Trigger Prob:      0.31%
+   FS Avg Spins:         10.0
+   FS Avg Multiplier:     3.5x
+   Free Spin RTP:        7.47%
+   --------------------------
+   TOTAL RTP:           75.99%
+
+RTP by Symbol:
+   E       12.70%
+   B       11.27%
+   7        7.97%
+   H        7.74%
+   C        6.54%
+   D        6.35%
+   L        5.79%
+   G        4.65%
+   O        3.31%
+   P        2.20%
+
+============================================================
+Note: This is an ESTIMATE. Actual RTP may vary.
+Run full simulation for accurate RTP calculation.
+============================================================
